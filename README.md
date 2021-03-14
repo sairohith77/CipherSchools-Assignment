@@ -3,6 +3,9 @@
 Ques 1-
 Write a code to print the following patterns:
 
+![image](https://user-images.githubusercontent.com/42542256/111075659-1350d400-850f-11eb-9f3f-fd2847527c49.png)
+
+
 
     *            
    * * 
