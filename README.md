@@ -3,22 +3,8 @@
 Ques 1-
 Write a code to print the following patterns:
 
-![image](https://user-images.githubusercontent.com/42542256/111075659-1350d400-850f-11eb-9f3f-fd2847527c49.png)
+![image](https://user-images.githubusercontent.com/42542256/111075701-47c49000-850f-11eb-8c58-f6858cfe7810.png)
 
-
-
-    *            
-   * * 
-  * * * 
- * * * * 
-* * * * *
-
-
-        A 
-      B C 
-    D E F 
-  G H I J 
-K L M N O
 
 
 Ques 2-
